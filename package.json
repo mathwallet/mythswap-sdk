@@ -1,6 +1,6 @@
 {
   "name": "mythswap-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "ISC",
   "description": "🛠 An SDK for building applications on top of MythSwap.",
   "main": "dist/index.js",
